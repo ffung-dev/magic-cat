@@ -9,12 +9,12 @@
 ![image](https://github.com/user-attachments/assets/f233b0ff-0744-417f-bcd2-477da47bbcf2)
 ![image](https://github.com/user-attachments/assets/f74b416d-c1e7-4f64-89f6-548138cfd5f3)
 
-### features
-* LEDs
-* vibration motor & LEDs controlled by a button
-* photoresistor & resistors
-* a cute cat :)
-# parts needed
+## features
+* a cute cat whose powers you can control
+* a push button activates the motor & LED
+* photoresistor: the eyes light up :)
+
+## parts needed
 * 1 battery holder
 * 1 push button
 * 5 LEDs
