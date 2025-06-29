@@ -22,3 +22,5 @@
 * 6 resistors
 * 1 vibration motor
 
+
+made by @fiona on slack for hack club's solder :)
