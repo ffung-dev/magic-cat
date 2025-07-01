@@ -3,7 +3,7 @@
 * this is my first time working with KiCad & my first ever pcb!
 
 # schematic
-![image](https://github.com/user-attachments/assets/d79cce70-cd12-4cf8-aa51-425f8960ed22)
+![image](https://github.com/user-attachments/assets/fd9e6bd6-c758-4b1d-8093-080fffe4abaa)
 
 # pcb
 ![image](https://github.com/user-attachments/assets/f233b0ff-0744-417f-bcd2-477da47bbcf2)
